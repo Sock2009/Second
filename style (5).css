@@ -13,7 +13,7 @@ body {
   height: 59cm;
 }
 .title{
-  background-image: url(https://img3.akspic.ru/previews/8/9/2/1/7/171298/171298-koster-kemping-teplo-ogon-plamya-x750.jpg);
+  background-image: url('https://img3.akspic.ru/previews/8/9/2/1/7/171298/171298-koster-kemping-teplo-ogon-plamya-x750.jpg');
   position: absolute;
   top: 4%;
   left: 50%;
